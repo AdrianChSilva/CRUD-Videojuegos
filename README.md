@@ -10,13 +10,13 @@ También se almacenará en una tabla la información de los socios de la tienda,
 ## Ejemplo de las tablas:
 
 ### Videojuegos:
-   + CodVideojuego (PK)
-  + Titulo
++ CodVideojuego (PK)
++ Titulo
 + Fecha-de-salida
 + Plataforma
-    + Stock
-    + Desarrolladora
-    + Publisher
++ Stock
++ Desarrolladora
++ Publisher
     
     
 ### Socios:
