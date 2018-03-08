@@ -10,17 +10,17 @@ También se almacenará en una tabla la información de los socios de la tienda,
 ## Ejemplo de las tablas:
 
 ### Videojuegos:
-    + CodVideojuego (PK)
-    + Titulo
-    + Fecha-de-salida
-    + Plataforma
+   + CodVideojuego (PK)
+  + Titulo
++ Fecha-de-salida
++ Plataforma
     + Stock
     + Desarrolladora
     + Publisher
     
     
 ### Socios:
-    + CodSocio (PK)
+   + CodSocio (PK)
     + DNI
     + Nombre
     + Apellidos
@@ -31,7 +31,7 @@ También se almacenará en una tabla la información de los socios de la tienda,
     
 ### Factura:
   + CodFactura (PK)
-	+ Fecha-de-Compra
-	+ CodSocio (PK)
++ Fecha-de-Compra
++ CodSocio (PK)
   + CodVideojuego (FK)
   + Cantidad
