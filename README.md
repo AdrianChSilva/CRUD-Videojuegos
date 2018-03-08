@@ -4,7 +4,7 @@ El trabajo CRUD intentará emular una base de datos de una tienda de videojuegos
 
 También se almacenará en una tabla la información de los socios de la tienda, el cual podrá realizar compras.
 
-*Como podemos observar, faltan opciones como la reserva de videojuegos que están por salir, alquiler de videojuegos, tabla de videojuegos disponibles de segunda mano y para alquilar,etc. Como ya dije desde el principio, hay limitaciones ya que no es la intencion emular a la perfeccion la BBDD de una tienda de videojuegos.
+*Como podemos observar, faltan opciones como la reserva de videojuegos que están por salir, alquiler de videojuegos, tabla de videojuegos disponibles de segunda mano y para alquilar,etc. Como ya dije desde el principio, hay limitaciones ya que no es la intencion emular a la perfeccion la BBDD de una tienda de videojuegos.*
 
 
 ## Ejemplo de las tablas:
@@ -30,8 +30,8 @@ También se almacenará en una tabla la información de los socios de la tienda,
     + Asociado (persona proporcionada por el socio al cual permite recoger sus compras en su nombre)
     
 ### Factura:
-  + CodFactura (PK)
++ CodFactura (PK)
 + Fecha-de-Compra
 + CodSocio (PK)
-  + CodVideojuego (FK)
-  + Cantidad
++ CodVideojuego (FK)
++ Cantidad
