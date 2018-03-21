@@ -1,0 +1,20 @@
+SMAP
+videojuegos_jsp.java
+JSP
+*S JSP
+*F
++ 0 videojuegos.jsp
+videojuegos.jsp
+*L
+5,35:48
+40,5:84
+44,17:89
+61,10:107
+70,3:117
+73,7:120,3
+80,7:141
+87:148,3
+88,4:151
+92,3:156
+94,16:159
+*E
