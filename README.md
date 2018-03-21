@@ -12,7 +12,6 @@ También se almacenará en una tabla la información de los socios de la tienda,
 ### Videojuegos:
 + CodVideojuego (PK)
 + Titulo
-+ Fecha-de-salida
 + Plataforma
 + Stock
 + Desarrolladora
@@ -35,3 +34,10 @@ También se almacenará en una tabla la información de los socios de la tienda,
 + CodSocio (PK)
 + CodVideojuego (FK)
 + Cantidad
+
+### DeT_Factura:
++ CodDetFact (PK)
++ CodVideojuegos(FK)
++ Cantidad
++ Precio
++ Factura_idFactura
