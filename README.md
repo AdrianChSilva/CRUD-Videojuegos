@@ -1,6 +1,6 @@
 # CRUD-Videojuegos
 
-El trabajo CRUD intentará emular una base de datos de una tienda de videojuegos (obviamente con limitaciones). Donde se almacenará únicamente los videojuegos exclusivos, de las consolas de vigente generación, de cada plataforma: Xbox, PlayStation y Nintendo. Vamos a obviar, de momento, la plataforma del PC ya que se extendería hasta (casi) el infinito.
+El trabajo CRUD intentará emular una base de datos de una tienda de videojuegos (obviamente con limitaciones).~~Donde se almacenará únicamente los videojuegos exclusivos, de las consolas de vigente generación, de cada plataforma: Xbox, PlayStation y Nintendo. Vamos a obviar, de momento, la plataforma del PC ya que se extendería hasta (casi) el infinito.~~.Almacenaremos todos los videojuegos, sin importar plataforma.
 
 También se almacenará en una tabla la información de los socios de la tienda, el cual podrá realizar compras.
 
@@ -19,14 +19,14 @@ También se almacenará en una tabla la información de los socios de la tienda,
     
     
 ### Socios:
-   + CodSocio (PK)
-    + DNI
-    + Nombre
-    + Apellidos
-    + Teléfono
-    + Email
-    + Dirección
-    + Asociado (persona proporcionada por el socio al cual permite recoger sus compras en su nombre)
++ CodSocio (PK)
++ DNI
++ Nombre
++ Apellidos
++ Teléfono
++ Email
++ Dirección
++ Asociado (persona proporcionada por el socio al cual permite recoger sus compras en su nombre)
     
 ### Factura:
 + CodFactura (PK)
@@ -41,3 +41,6 @@ También se almacenará en una tabla la información de los socios de la tienda,
 + Cantidad
 + Precio
 + Factura_idFactura
+
+##Imágenes de la aplicación
+[index](E:/CRUDv1/index.png)
