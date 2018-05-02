@@ -43,4 +43,4 @@ También se almacenará en una tabla la información de los socios de la tienda,
 + Factura_idFactura
 
 ##Imágenes de la aplicación
-[index](E:/CRUDv1/index.png)
+<img Imagenes/index.png>
