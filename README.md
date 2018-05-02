@@ -42,5 +42,15 @@ También se almacenará en una tabla la información de los socios de la tienda,
 + Precio
 + Factura_idFactura
 
-##Imágenes de la aplicación
+## Imágenes de la aplicación
+### Index
 <img src="Imagenes/index.png">
+
+### Facturas
+<img src="Imagenes/PagFacturas.png">
+
+### Socios
+<img src="Imagenes/PagSocios.png">
+
+### Videojuegos
+<img src="Imagenes/PagVideojuegos.png">
