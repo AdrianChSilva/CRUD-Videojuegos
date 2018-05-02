@@ -43,4 +43,4 @@ También se almacenará en una tabla la información de los socios de la tienda,
 + Factura_idFactura
 
 ##Imágenes de la aplicación
-<img Imagenes/index.png>
+<img src="Imagenes/index.png">
